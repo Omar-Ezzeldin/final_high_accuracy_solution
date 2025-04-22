@@ -44,8 +44,7 @@ This project implements an enhanced resume ranking system using MPNet embeddings
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Omar-Ezzeldin/final_high_accuracy_solution.git
 ```
 
 2. **Create a virtual environment (recommended)**:
